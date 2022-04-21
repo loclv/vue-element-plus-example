@@ -1,6 +1,8 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    Đây là trang web tạo bởi 1 người dân xóm Sải - xã Trưng Vương, có tuổi thơ gắn bó với ngôi Đình.<br>
+
+    Liên hệ tác giả trang web qua email: masamonedante@gmail.com
   </div>
 </template>
 

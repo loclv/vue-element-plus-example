@@ -56,3 +56,7 @@ pnpm lint
 ### Initialize
 
 Do not support JSX.
+
+## SVG resources
+
+- [Temple SVG Vector](https://www.svgrepo.com/svg/985/chinese-temple)
